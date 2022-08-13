@@ -18,6 +18,21 @@
     <color name="yellow">#FFC114</color>
     <color name="green">#00C980</color>
 
-    <color name="statusBarColor">@color/purple_500</color>
-    <color name="recipeTitleColor">@color/darker</color>
+    <color name="statusBarColor">@color/darker</color>
+    <color name="recipeTitleColor">@color/green</color>
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
